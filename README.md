@@ -2,6 +2,7 @@
 # Instagram Follow Checker
 
 Aplikasi Python sederhana menggunakan Instaloader untuk memeriksa siapa saja yang kamu follow tetapi tidak follow back di Instagram.
+untuk 2fa nya masih beta kadang suka error , di harapkan matikan saya 2fa akun instagram nya
 
 ## Fitur
 - Login ke akun Instagram (mendukung autentikasi dua faktor).
